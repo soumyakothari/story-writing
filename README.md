@@ -76,6 +76,6 @@ Add a LICENSE file if you plan to open source it.
 
 ## ✨ Author
 
-- Anirud Rathy (E23BCAU0148)  
+- soumya kothari (E23BCAU0041)  
 - Course: Intelligent Model Design Using AI  
 - Supervisor: Dr. Greeta Pinheiro
